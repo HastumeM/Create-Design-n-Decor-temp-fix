@@ -1,0 +1,14 @@
+{
+  "values": [
+    "dndecor:stone_crushing_wheel",
+    "dndecor:packed_mud_crushing_wheel",
+    "dndecor:amethyst_crushing_wheel",
+    "dndecor:netherrack_crushing_wheel",
+    "dndecor:basalt_crushing_wheel",
+    "dndecor:blackstone_crushing_wheel",
+    "dndecor:weathered_limestone_crushing_wheel",
+    "dndecor:gabbro_crushing_wheel",
+    "dndecor:dolomite_crushing_wheel",
+    "create:crushing_wheel"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "values": [
+    "dndecor:stone_millstone",
+    "dndecor:packed_mud_millstone",
+    "dndecor:amethyst_millstone",
+    "dndecor:netherrack_millstone",
+    "dndecor:basalt_millstone",
+    "dndecor:blackstone_millstone",
+    "dndecor:weathered_limestone_millstone",
+    "dndecor:gabbro_millstone",
+    "dndecor:dolomite_millstone",
+    "create:millstone"
+  ]
+}
